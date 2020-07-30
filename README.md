@@ -13,4 +13,4 @@ AWS Services Used in this exercise.
 - AWS Glue ETL , Crawler
 - Spark
 - DynamoDB , DynamoDB Streams
-- EC2
+- AWS EC2
